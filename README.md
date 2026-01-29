@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm NIGAM KUMAR</h1>
 <h3 align="center">A passionate python developer from BIHAR</h3>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kali-dada&label=Profile%20views&color=0e75b6&style=flat" alt="kali-dada" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kali-dada" alt="kali-dada" /></a> </p>
