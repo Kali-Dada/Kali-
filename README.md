@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIGAM KUMAR</h1>
 <h3 align="center">A passionate python developer 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Python+Developer;Linux+Learner;Kali+Linux+User;Cyber+Security+Student;Future+Ethical+Hacker" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
