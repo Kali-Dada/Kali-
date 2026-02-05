@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Knigam628@gmail.com**
 
-- ⚡ Fun fact **I Think I am Anonymous**
+- ⚡ Fun fact **THE QUITTER YOU BECOME MORE YOU ABLE TO HEAR **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
