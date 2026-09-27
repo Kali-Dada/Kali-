@@ -1,4 +1,43 @@
-<!-- ================= CYBERSECURITY HEADER ================= -->
+<!-- ========================================================= -->
+<!--                    NIGAM KUMAR README                     -->
+<!-- ========================================================= -->
+
+<h1 align="center">👋 Hi, I'm NIGAM KUMAR</h1>
+
+<h3 align="center">
+🔐 Cybersecurity Student | 🐍 Python Developer | 🐧 Linux & Kali Linux Learner
+</h3>
+
+<!-- ===================== CYBER ANIMATION ===================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=850&lines=%5B+INITIALIZING+CYBERSECURITY+PROFILE...+%5D;%5B+LOADING+KALI+LINUX...+%5D;%5B+STARTING+NETWORK+RECONNAISSANCE...+%5D;%5B+ANALYZING+SECURITY+SERVICES...+%5D;%5B+SYSTEM+READY+%5D+CYBERSECURITY+MODE+ACTIVE" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/data/hacker.gif"
+       width="700"
+       alt="Cybersecurity Hacker Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kali-dada&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+</p>
+
+---
+
+# 🧑‍💻 About Me
+
+```bash
+┌──(nigam㉿kali)-[~]
+└─$ whoami
+
+> Python Developer
+> Cybersecurity Student
+> Linux & Kali Linux Learner
+> Networking Enthusiast
+> Security Tool Learner
+> Future Security Professional<!-- ================= CYBERSECURITY HEADER ================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=%5B+CYBERSECURITY+MODE+ACTIVATED+%5D;Initializing+Security+Toolkit...;Scanning+%7C+Analyzing+%7C+Securing;root%40kali%3A~%24+./cyber_security.sh" />
