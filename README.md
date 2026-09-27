@@ -1,4 +1,44 @@
-0<h1 align="center">Hi 👋, I'm NIGAM KUMAR</h1>
+<!-- ================= CYBERSECURITY HEADER ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=750&lines=%5B+CYBERSECURITY+MODE+ACTIVATED+%5D;Initializing+Security+Toolkit...;Scanning+%7C+Analyzing+%7C+Securing;root%40kali%3A~%24+./cyber_security.sh" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
+</p>
+
+---
+
+# 🔐 Cybersecurity Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004065?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wifite-111111?style=for-the-badge&logo=wifi&logoColor=00FF00"/>
+</p>
+
+### 🐧 Linux & Security Environment
+
+<p align="center">
+
+<a href="https://www.kali.org/" target="_blank">
+<img src="https://www.kali.org/images/kali-logo.svg"
+alt="Kali Linux" width="70" height="70"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+alt="Linux" width="70" height="70"/>
+</a>
+
+</p>
+
+- Kali Linux
+- Linux Fundamentals
+- Linux Command Line
+- Bash / Shell Scripting0<h1 align="center">Hi 👋, I'm NIGAM KUMAR</h1>
 <h3 align="center">A passionate python developer 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Python+Developer;Linux+Learner;Kali+Linux+User;Cyber+Security+Student;Future+Ethical+Hacker" />
